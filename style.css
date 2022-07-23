@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    padding: 50px 0;
+}
+.navbar {
+    background-color: #F7F9FF;
+}
+.navbar-nav li a {
+    color: #000;
+}
+.navbar-nav li a:hover {
+    color: #D2085C;
+}
+.img-logo {
+    margin-top: -10px;
+}
+.nav-item.active {
+    color: #D2085C;
+}
+.dropdown-menu {
+    background-color: #fff;
+}
+.btn {
+    background-color: #D2085C;
+}
+.btn:hover {
+    color:#000 !important;
+    background-color: #FABB11;
+}
+.fa-brands {
+    color: #D2085C;
+    padding: 0 5px;
+}
+.social-icon {
+    margin-right: 10px;
+}
+.fa-phone {
+    color: #fff;
+    margin-right:5px;
+}
+.btn-service {
+    color: #fff;
+    background-color: #D2085C;
+}
+
+
+.short-title {
+    color: #D2085C;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.heading-title {
+    color: #13023e;
+    font-size: 4rem;
+    font-weight: 600;
+}
+.description {
+    color: 54595f;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.btn-service:hover {
+    color:#000 !important;
+    background-color: #FABB11;
+}
+
+
+.short-service {
+    color: #D2085C;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.main-heading {
+    color: #13023e;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.service-text {
+    color: 54595f;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.bg-color {
+    color: #fff;
+    background-color: #6B705C;
+}
+.bg-color-2 {
+    color: #fff;
+    background-color: #457B9D;
+}
+.bg-color-3 {
+    color: #fff;
+    background-color: #81B29A;
+}
+.bg-color-4 {
+    color: #fff;
+    background-color: #6D597A;
+}
+.bg-color-5 {
+    color: #fff;
+    background-color: #335C67;
+}
+.bg-color-6 {
+    color: #fff;
+    background-color: #B5838D;
+}
+.col-12 > div h2 {
+    font-size: 22px;
+}
+.col-12 > div p {
+    font-size: 16px;
+}
+
+
+.about-title {
+    color: #D2085C;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.about-heading {
+    color: #13023e;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.about-text {
+    color: 54595f;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.about-sub-title {
+    color: #13023e;
+    font-size: 16px;
+    font-weight: 600;
+}
+.about-sub-description {
+    color: #54595f;
+    font-size: 16px;
+    font-weight: 400;
+}
+.col-12 .sub-image {
+    height: auto;
+    width: 150px;
+}
